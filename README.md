@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Muhammad Talha a AI-Driven Full-Stack Developer skilled in building scalable web & mobile applications and intelligent systems using modern<br>frameworks, ML, and agentic AI tools with 1+ year of experience
+👋 Hi, I'm Muhammad Talha a AI-Driven Full-Stack Developer skilled in building scalable web & mobile applications and intelligent systems using modern frameworks, ML, and agentic AI tools with 1+ year of experience
 
 
 # 💻 Tech Stack:
